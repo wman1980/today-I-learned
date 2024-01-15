@@ -7,3 +7,5 @@ To simulate app kill process you have to do the following things:
 4. Reattach debugger to android process via _Run_->_Attach debugger to android process_
 5. Open your app from _Overview_ list  
 
+![Screenshot of DeviceExplorer in AndroidStudio with new UI](/android/assets/terminate_app_process_by_os_1.png)
+
